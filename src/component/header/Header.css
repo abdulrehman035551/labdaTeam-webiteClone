@@ -1,0 +1,61 @@
+.links {
+  color: black;
+  font-weight: 500;
+  font-size: 17px;
+  font-family: inherit;
+  padding: 12px 20px;
+  margin-bottom: 10px;
+  /* font-size: 20px; */
+  font-weight: 700;
+}
+.links1{
+  width: 100vw;
+   color: black;
+  font-weight: 500;
+  font-size: 24px;
+  font-family: inherit;
+  padding: 12px 0px;
+  /* margin-bottom: 10px; */
+  /* margin-left: 20px; */
+  /* font-size: 20px; */
+  font-weight: 700;
+}
+
+@media only screen and (max-width: 899px) {
+
+  #logo {
+    /* position: absolute;
+        right: 10px; */
+    color: orangered;
+  }
+  .css-1160xiw-MuiPaper-root-MuiDrawer-paper {
+    box-shadow: none;
+    /* width: 100%; */
+  }
+
+  /* .css-1160xiw-MuiPaper-root-MuiDrawer-paper {
+    position: relative;
+  }
+  .css-1160xiw-MuiPaper-root-MuiDrawer-paper {
+    box-shadow: none;
+  }
+
+  .css-1u2w381-MuiModal-root-MuiDrawer-root {
+    position: relative;
+  }
+  .css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+    position: relative;
+  }
+  .css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+    position: ;
+  } */
+}
+@media only screen and (min-width:609px) and (max-width:1024px) {
+  #logo-link
+  {
+    width:"90%"
+  }
+  #icon-btn{
+    left: 200px;
+  }
+}
